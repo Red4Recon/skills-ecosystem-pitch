@@ -115,4 +115,4 @@ Caveat: synthetic labels derived from filter features. Live validation required.
 
 ---
 
-*Full detail, ecosystem inventory, and prototype code: see README.md in this repo.*
+*Full detail, ecosystem inventory, and prototype code: see [README.md](README.md) and [SPEAKER_NOTES.md](SPEAKER_NOTES.md) in this repo.*
